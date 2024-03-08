@@ -1,17 +1,10 @@
 # WP Fast Total Search - The Power of Indexed Search
 
-Contributors: Epsiloncool
-Donate link: https://www.patreon.com/epsiloncool
-Tags: search pdf, search, better search, relevance, shortcode search, file search, relevant search, extended search
-Requires at least: 5.0
-Tested up to: 6.4.3
-Stable tag: trunk
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+* Tags: search pdf, search, better search, relevance, shortcode search, file search, relevant search, extended search
+* Requires at least: Wordpress 5.0
+* Tested up to: 6.4.3
 
 Extends the default fulltext search with relevance, jet speed and ability to search any posts, metadata, taxonomy, shortcode content and any piece of the wordpress data. No external software/service required.
-
-WP Fast Total Search - Fastest and most flexible free fulltext and file search plugin for Wordpress
 
 ## Description
 
